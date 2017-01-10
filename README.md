@@ -11,7 +11,8 @@ Project is splitted into severeal blender files to make version git workflow eas
 
 Files responsibilities:
 * `Main scene.blend` - importing objects from other files and setting cameras, lightning and so on...
-* `Amatrice.blend` - buildings
+* `Amatrice.blend` - destroyed buildings
+* `Buildings.blend` - standing buildings
 * `Terrain.blend` - roads, terrain
 
 Pro tips:
